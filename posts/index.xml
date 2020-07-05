@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Gabitopia</title>
+    <link>http://www.gabi.blog.br/posts/</link>
+    <description>Recent content in Posts on Gabitopia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 08 Oct 2019 13:27:39 -0300</lastBuildDate>
+    
+	<atom:link href="http://www.gabi.blog.br/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Olá</title>
+      <link>http://www.gabi.blog.br/posts/hello/</link>
+      <pubDate>Tue, 08 Oct 2019 13:27:39 -0300</pubDate>
+      
+      <guid>http://www.gabi.blog.br/posts/hello/</guid>
+      <description>Olá Olá, mundo</description>
+    </item>
+    
+  </channel>
+</rss>
