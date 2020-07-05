@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gabitopia</title>
-    <link>http://www.gabi.blog.br/</link>
+    <link>https://rpagliuca.github.io/gabi.blog.br/</link>
     <description>Recent content on Gabitopia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 08 Oct 2019 13:27:39 -0300</lastBuildDate>
     
-	<atom:link href="http://www.gabi.blog.br/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rpagliuca.github.io/gabi.blog.br/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Olá</title>
-      <link>http://www.gabi.blog.br/posts/hello/</link>
+      <link>https://rpagliuca.github.io/gabi.blog.br/posts/hello/</link>
       <pubDate>Tue, 08 Oct 2019 13:27:39 -0300</pubDate>
       
-      <guid>http://www.gabi.blog.br/posts/hello/</guid>
+      <guid>https://rpagliuca.github.io/gabi.blog.br/posts/hello/</guid>
       <description>Olá Olá, mundo</description>
     </item>
     

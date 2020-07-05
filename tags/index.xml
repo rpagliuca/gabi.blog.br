@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gabitopia</title>
-    <link>http://www.gabi.blog.br/tags/</link>
+    <link>https://rpagliuca.github.io/gabi.blog.br/tags/</link>
     <description>Recent content in Tags on Gabitopia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     
-	<atom:link href="http://www.gabi.blog.br/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rpagliuca.github.io/gabi.blog.br/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
