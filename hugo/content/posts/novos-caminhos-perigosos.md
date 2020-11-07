@@ -1,0 +1,17 @@
+---
+title: "Novos caminhos perigosos"
+url: novos-caminhos-perigosos
+publishDate: Thu, 31 Jul 2014 14:16:44 +0000
+date: 2014-07-31 14:16:44
+categories: 
+  - "avancos-espirituais"
+tags: 
+---
+<p style="text-align: justify;"><span style="line-height: 1.5em;">"Vá, mas não rompe", me disse a entidade Ogum Beira-Mar, quando fui a um centro espírita de Umbanda, no final de 2012. Conversei com ela sobre minha vontade de sair da cidade em que eu morava, São Paulo, para ir morar na praia. Ela me disse que é onde fica quando não está atendendo no centro, onde ela trabalha.</span></p>
+<p style="text-align: justify;">Alguns dias depois, tive uma briga com alguém que amo muito e fiquei sem falar direito com ele durante uns três meses. No dia da briga, gritamos um com o outro e eu saí do local. Ao descer as escadas, senti meu coração dizer “vá, mas não rompe”. Nunca tinha entendido a expressão “ouvir a voz do seu coração”, mas, a partir dali, passei a entender.</p>
+<p style="text-align: justify;">Enquanto me resolvia com essa pessoa que eu amo muito, tive a oportunidade de sair de São Paulo, vim morar em Santos. Pensei: “não tem como eu romper morando longe, uma coisa não tem a ver com a outra. Distância é nada perto do amor que sentimos”. E assim estou há pouco mais de um ano, indo visitar minha família pelo menos uma vez ao mês, mantendo contato com meus amigos e seguindo minha vida.</p>
+<p style="text-align: justify;">As coisas começaram a mudar quando, nesse meio tempo, entrei em uma jornada de autoconhecimento da qual não pretendo voltar. Percebi que, talvez, Ogum Beira-Mar não estivesse falando apenas de “ir” para outra localização geográfica. Percebi que há lugares ainda mais perigosos a ir e que podemos dar margem para que os outros falem, julguem e tentem impedir. E se for alguém com importância na sua vida, ainda, poderá haver uma ruptura indesejável para ambos os lados. O caminho é perigoso a esse ponto – e olha que não estou fazendo nada errado, ilegal, antiético. Estou apenas querendo seguir um caminho pouco convencional.</p>
+<p style="text-align: justify;">"Vá, mas não rompe", esse talvez seja meu maior desafio a enfrentar. A busca por um estilo de vida que eu sempre quis, mas nunca me dei o direito de ter, começou já há algum tempo. Tenho procurado me informar, conhecer, procurar, questionar e refletir sobre diversos modos de pensar e viver. Agora está na hora de colocar em prática o que eu tenho aprendido. E talvez isso não vá de encontro com o que algumas pessoas acreditam.</p>
+<p style="text-align: justify;">Não importa o que eu tenha aprendido... Tudo tem a ver com o que eu optei absorver, com que materiais me construo diariamente. Não quer dizer que eu esteja certa e os outros não. Ao contrário, isso tem a ver apenas com o estilo de vida que cada um escolhe.</p>
+<p style="text-align: justify;">“Vá, mas não rompe” não saía da minha cabeça. Mas algo precisaria ser rompido: <strong>a barreira do medo</strong>. Estou tão decidida a mergulhar de cabeça que não tenho mais medo. "Vá, mas não rompe" serviu de aviso e já está claro, não irei cometer esse erro.</p>
+<p style="text-align: justify;">Afinal, o caminho pode ser perigoso e arriscado, <strong>mas é cheio de amor</strong>. E quem tem amor no coração, não rompe com os entes amados. Estou livre, me sinto livre. Só espero que eles me compreendam e me deixem ir, sem romper comigo. Deixo isso na mão do Universo.</p>

@@ -1,0 +1,10 @@
+---
+title: "Primeiro Beijo"
+url: primeiro-beijo
+publishDate: Sat, 23 Sep 2006 15:28:00 +0000
+date: 2006-09-23 15:28:00
+categories: 
+  - "cronicas"
+tags: 
+---
+<a href="http://1.bp.blogspot.com/_BzqI_RDZ6O4/SbvNxBkr-II/AAAAAAAAADQ/Wob_OER1ELc/s1600-h/kiss.jpg"><img class="alignleft" src="http://1.bp.blogspot.com/_BzqI_RDZ6O4/SbvNxBkr-II/AAAAAAAAADQ/Wob_OER1ELc/s320/kiss.jpg" alt="" width="305" height="415" border="0" /></a>Esperando, procurando os olhos dele... Que cores são? Azuis? Verdes? Mel? É! Mel, acho que mel... Depois de tanto esperar ele chegou, as luzes bateram em seu rosto e eu pude vê-lo perfeitamente, era ele! Seus cabelos castanhos claros bagunçados e, olhos brilhantes fixando-os em minha direção, sorriu... Pegou uma das minhas mãos e a beijou, seguimos de mãos dadas para dentro do salão, ele olhava para as pessoas paradas e sorria cada vez mais, o sorriso mais perfeito de todos. Nossa música começou a tocar baixa, abafada, eu não via mais nada além dele, todas as luzes haviam sido apagadas, tudo ficou escuro, ficamos de frente, um para o outro, só enxergava a luz do seu olhar, pegou uma de minhas mãos com a dele, esticou, apoiou a outra na minha cintura, eu apoiei a minha em seu ombro, um passo para a direita, nos aproximamos mais, um passo para esquerda, mais perto, outro para direita, rodando, sua bochecha encostou na minha, um passo para trás e para esquerda, nossos lábios se aproximaram, minhas mãos tremiam, ele então escorregou sua mão para o meio das minhas costas, puxou meu corpo mais pra perto dele, sentiu que era aquilo que eu queria, um passo para direita, outro pra esquerda, mais perto do que nunca, nossos olhos se fecharam, rodando e dando passos para os lados, fomos parando de rodar, ele me beijou, fomos parando de dar passos pros lados, e paramos, nos beijamos em um beijo doce e que me aqueceu, o sinal tocou e nossos corpos se afastaram com um pulo, a música do Ipod no máximo de volume foi desligada pelo professor,  na mesma hora percebi todos entrando na sala de aula, ele me beijou a testa e foi pra classe dele...

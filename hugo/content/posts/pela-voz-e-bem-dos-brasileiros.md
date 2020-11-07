@@ -1,0 +1,20 @@
+---
+title: "Pela voz e bem dos brasileiros"
+url: pela-voz-e-bem-dos-brasileiros
+publishDate: Mon, 01 Nov 2010 01:32:00 +0000
+date: 2010-11-01 01:32:00
+categories: 
+  - "estilo-de-vida"
+tags: 
+  - "opiniao-2"
+  - "polemica-2"
+  - "politica"
+---
+<p style="text-align: justify;"><a href="http://www.gabi.blog.br/wp-content/uploads/2010/11/Bras1.png"><img class="alignleft size-full wp-image-1880" src="http://www.gabi.blog.br/wp-content/uploads/2010/11/Bras1.png" alt="Bras1" width="260" height="261" /></a>Em 2002, quando Lula foi eleito pela primeira vez, eu só tinha 14 anos. Não sabia muito de política, mas eu sabia de algo importante: o Brasil é só um, todos iam ter o mesmo presidente e as conseqüências de um bom ou mau governo iam ser para todos, e não só para quem havia votado nele.</p>
+<p style="text-align: justify;">Quando somos crianças reproduzimos o que ouvimos dos adultos. Ouvia de pessoas da minha idade: “espero que agora o Brasil se “perca“, para esse povo parar de ser burro”. Mas espera aí... Se o Brasil se “perder”, vocês não vão se “perder” também? Se a esperança do país ir pra frente não existia dentro do pensamento dessas pessoas, eu fico pensando, será que não seria melhor rezar, pedir a Deus um milagre do que ficar rogando praga?</p>
+<a href="http://www.gabi.blog.br/wp-content/uploads/2010/11/Posse_Dilma_2010_8.jpg"><img class="wp-image-1879 size-thumbnail alignleft" src="http://www.gabi.blog.br/wp-content/uploads/2010/11/Posse_Dilma_2010_8-150x150.jpg" alt="Posse_Dilma_2010_8" width="150" height="150" /></a>Em 2010, Dilma Rousseff foi eleita. E não posso negar minha satisfação de ver uma mulher, finalmente, no topo. Eu preferia que fosse uma mulher mais preparada, mas tudo bem, ainda é mulher! Eu tive aquela vergonha alheia quando vi uns vídeos de entrevistas e de discursos, mas Lula também nos fez pagar alguns micos e ainda assim, eu vi Lula segurar a barra em 2008 quando todos os países, inclusive os Estados Unidos, estavam em crise e sem emprego.
+<p style="text-align: justify;">Eu tenho medo de que ela não saiba dizer não aos chefões (porque vocês não acham que são os presidentes realmente que governam, né?!), que ela fique amiguinha de Hugo Chávez e que haja uma mudança grande na maneira que dizemos o que pensamos (sim, estou falando de censura). Tenho medo que ela não saiba governar para nós.
+No entanto, ainda tenho esperança pelo simples fato de que ela é gente e eu acredito em gente. E não foram só pessoas pobres e sem educação que votaram nela. Conheço pessoas inteligentes, formados em universidades, pensantes, formadores de opiniões que deram seus votos de confiança à eleita. E por isso que eu não acredito que ela seja de todo o mal.</p>
+<p style="text-align: justify;">Somos apenas um país, a partir de 2011 governados por Dilma Rousseff querendo ou não. E no fim das contas, como eu disse no começo, todos nós vamos sofrer as consequências. Então, nada de pensamentos negativos! Não é só de um presidente que um país é feito. Não quero ver ninguém de luto, ninguém dizendo que agora o Brasil já era. Não quero ouvir ninguém desanimado! Vamos continuar lutando todos os dias, fazendo nossa parte, trabalhando como nunca, estudando bastante para não nos deixar levar por manipulações de gente e mídia medíocre.</p>
+<p style="text-align: justify;">E assim como existirá uma só conseqüência para todos os brasileiros, todos nós temos também o direito de exigir que ela governe bem e para nós. Quem votou ou não nela. O Brasil inteiro. Somos nós que temos que ficar de olho!
+Eu estou com muita esperança de que tudo vá bem e que seja quem estiver governando – seja Dilma ou seus companheiros – que façam o bem. Porque ela foi eleita presidente, e como tal tem que representar os direitos dos brasileiros e não os seus próprios. E vamos cobrar. E se depois de tudo minhas esperanças forem embora e eu passar por uma iludida, ingênua e infantil por ter escrito essas palavras, estarei preparada com minha tinta verde e amarela para sair nas ruas de cara pintada.</p>

@@ -1,0 +1,10 @@
+---
+title: "Íntimo"
+url: intimo
+publishDate: Sun, 03 May 2009 12:00:00 +0000
+date: 2009-05-03 12:00:00
+categories: 
+  - "estilo-de-vida"
+tags: 
+---
+<p></p><p><span></span><br></p><p><span><span>VÍDEO DO TEXTO...</span></span></p><p><span> <span><span>  </span></span></span><span><span>Eu tenho dois espelhos no meu quarto. Dois. Não uso nenhum pra valer. Escolho uma roupa, olho se combina, esqueço de olhar pro resto, olho pra roupa como se estivesse numa vitrine, em um manequim.</span></span></p><p><span><span>                      Não uso os espelhos. Eu tenho uma frase escrita em cima deles: "não importa o que aconteça você está linda". Sim, essa frase funciona por fora, para a beleza exterior, mas e quanto ao meu interior?</span></span></p><p><span><span>                      Pensava que sendo bonita por dentro seria automaticamente por fora, e talvez seja isso mesmo, o problema é que eu não olho muito pra esse meu interior de verdade.</span></span></p><p><span><span>                      Olho as coisas boas, me acho legal, sou boazinha, educada, até inteligente, eu acho. Eu me acho feliz, tenho uma boa família, saúde, não preciso me privar de estudar, nem comer nem me vestir.</span></span></p><p><span><span>                      Mas esqueço de perceber que sempre falta alguma coisa. É essa coisinha de nada, que eu sempre deixo pra lá que me faz não me querer olhar no espelho, porque sei que não vou gostar do que veria. O que falta? O que me falta pra ser uma pessoa um pouco melhor?</span></span></p><p><span><span>                       Descobri a verdadeira função de um espelho: fazer a gente olhar pra dentro de nossos olhos e enxergar o que tem de verdade nesse íntimo. Ontem eu olhei. Tenho muitas coisas, mas faltam outras. Chorei. E descobri que eu não só sou imperfeita, mas que às vezes sou também infeliz. </span></span></p><p><span><span><br></span></span></p><p><span><span><br></span></span></p><p><span><span>P.S: esse post não é para ser levado a mal nem fiquem superpreocupados comigo, são pensamentos confusos e sentimentos efêmeros...</span></span></p><p></p>

@@ -1,0 +1,14 @@
+---
+title: "Henrique"
+url: henrique
+publishDate: Sat, 01 Nov 2008 00:27:00 +0000
+date: 2008-11-01 00:27:00
+categories: 
+  - "cronicas"
+  - "erica-serie"
+tags: 
+  - "erica"
+  - "namorados"
+  - "serie"
+---
+<a href="http://3.bp.blogspot.com/_BzqI_RDZ6O4/ScBAQnzqUDI/AAAAAAAAAOU/s3ZXIeR4WU8/s1600-h/ericaserie.jpg"><img src="http://3.bp.blogspot.com/_BzqI_RDZ6O4/ScBAQnzqUDI/AAAAAAAAAOU/s3ZXIeR4WU8/s200/ericaserie.jpg" border="0" alt=""></a><br><div><span>(antes de ler esse post, leia o primeiro post da série)</span></div><div><span> </span></div><div><br></div><div>Henrique era melhor amigo do cara que eu gostava até uns dias antes, no carnaval. No vigésimo quinto dia de fevereiro, por telefone, nos conhecemos. Esse é o dia do meu aniversário e o cara que eu gostava me ligou para me desejar felicidades e como Henrique estava junto, falou comigo também. Foi nosso primeiro contato. Eu já sabia quem era ele e ele já sabia quem era eu. Sem perder tempo, o adicionei no Orkut e no MSN e começamos a nos falar. Em uma terça feira, ele me chamou para sair, para tomar uma cerveja, bater um papo, comer um lanche. Ele me buscou em casa e fomos a um bar. Conversamos muito sobre tudo e percebemos bastante afinidade um com outro. Eu estava me sentindo totalmente atraída por ele e vice versa. Ele me chamou para ir a casa dele, assistir um filme. Sentamos no sofá e ele me beijou, perguntou se eu estava com ele pra fazer ciúme no amigo dele e eu disse que não, que ninguém precisava saber disso de propósito. Fomos deixando nos levar pelos instintos carnais e foi ai que rolou a minha primeira vez. Tinha acabado de fazer dezessete anos e não me arrependi nenhum dia da minha vida de ter feito com ele. Eu sei que tinha acabado de conhecê-lo e não tínhamos nada sério, mas não me condeno por isso, não. Meu ex-namorado me condenava tanto que foi um dos motivos que eu dei um pé-na-bunda dele. Nós tínhamos muito em comum e dois dias depois saímos de novo. Ficamos dando voltas de carro conversando sem saber aonde ir. Passamos por um bar que tinha gente conhecida, eu perguntei se a gente podia ir, ele ficou meio indeciso e eu perguntei se ele tinha vergonha de mim. Quando eu disse isso, ele deu a seta para estacionar e parou o carro ali mesmo. Descemos, bebemos alguma coisa e fomos embora. Fomos para a casa dele. Minha mãe tinha ido viajar, não iria ficar brava se eu chegasse tarde. Foi a última vez que ficamos juntos. Ele não queria nada sério, eu também não. Conheci outro cara que fiquei até conhecer meu ex-namorado e já terminei o caso para namorar sério. Namorei mais de um ano e meio e quando terminei quem estava namorando era ele. Não sei se eu faço questão de ter nada, de novo, com ele, talvez só não queira perder o contato com o cara que está com minha virgindade e minha calcinha preferida na qual esqueci lá na nossa segunda noite.</div>

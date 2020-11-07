@@ -1,0 +1,10 @@
+---
+title: "Esteriótipo de merda!"
+url: esteriotipo-de-merda
+publishDate: Wed, 18 Feb 2009 02:26:00 +0000
+date: 2009-02-18 02:26:00
+categories: 
+  - "cronicas"
+tags: 
+---
+<a href="http://3.bp.blogspot.com/_BzqI_RDZ6O4/SsYk9GBmQ_I/AAAAAAAAA_A/1wNBQTxsizU/s1600-h/ela_2.jpg"><img src="http://3.bp.blogspot.com/_BzqI_RDZ6O4/SsYk9GBmQ_I/AAAAAAAAA_A/1wNBQTxsizU/s200/ela_2.jpg" border="0" alt=""></a><br><div><span><span><span> </span></span></span><span><span>Foi logo no primeiro dia de aula que reparei nele e quis parecer descolada e de certa forma, desinteressada. Ele era lindo e um pouco mais novo. É claro que beleza é relativa e idade também, mesmo assim, fiquei na defensiva. Eram vibrações que vinham dele pra mim. Ficava nervosa. Suava. Era estranho e engraçado o jeito que a gente passava sem se olhar. Depois de uma semana, nosso primeiro contato foi com o olhar, coisa de 0,5 segundos. E o olhar dele nem me disse nada, foi só uma coisa ‘pára de me olhar, cara’, mesmo assim gelei e tremi.  Não poderia ser real, era bonito demais pra ser tão legal. E ainda palmeirense - tinha que ser idiota. Fala sério. Eu e meus preconceitos idiotas. Só porque era um dos caras mais lindos e charmosos da classe, porque ele tinha de ser idiota? O que ele ganharia sendo um idiota, na verdade? Quem foi que disse que todos os meninos feios são legais e porque será que ninguém pensa que eles podem ser bestas quadradas?  Eu estava atraída por ele, ele sendo lindo ou não, chato ou legal, burro ou inteligente.  Era mais um fanático por futebol, eu pensei. E daí? Eu estava de verdade atraída por ele, independente de, até, conhecê-lo. O que fazer em relação a isso? Mensagem no Orkut? Conversas por MSN ou então falar com ele na sala de aula? Sei lá. Era estranho como eu não queria acabar com a imagem de um menino perfeito e o amor platônico, sabe?  A mágica de não saber que o menino mais lindo da classe é, com certeza, o mais idiota. Só tem um problema: E se ele não for? E se ele for um cara realmente legal? Maldito estereótipos.</span></span></div><div><br></div>

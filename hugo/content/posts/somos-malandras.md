@@ -1,0 +1,27 @@
+---
+title: "Somos malandras"
+url: somos-malandras
+publishDate: Thu, 21 Dec 2017 01:48:51 +0000
+date: 2017-12-21 01:48:51
+categories: 
+  - "avancos-espirituais"
+tags: 
+---
+<p style="text-align: justify;">Passei o dia todo lendo e xingando homens em debates superficiais sobre o clipe de Anitta e toda hora me vinha na cabeça: <strong>o verdadeiro empoderamento não é midiático, é nosso trabalho diário. </strong>É isso eles nunca vão entender. Principalmente se ninguém pegar na mão e explicar.</p>
+<p style="text-align: justify;">A maioria desses homens vinha com questionamentos do tipo<em> “por que a Anitta pode rebolar a bunda e se objetificar no clipe dela e a gente não pode objetificar vocês numa propaganda de cerveja?”</em></p>
+<p style="text-align: justify;">Resposta:</p>
+<p style="text-align: justify;"><img class="alignleft size-medium wp-image-6561" src="http://www.gabi.blog.br/wp-content/uploads/2017/12/0694D0A5-64DB-4F17-840C-C4E0209A93AF-300x277.jpeg" alt="0694D0A5-64DB-4F17-840C-C4E0209A93AF" width="300" height="277" /></p>
+<p style="text-align: justify;"><b>EU QUERO</b></p>
+<p style="text-align: justify;">Típico argumento de quem realmente finge que se importa com objetificação feminina só pra bater de frente com as feministas nessas horas.</p>
+<p style="text-align: justify;">Pois bem, homens não sabem um doze-avos do nosso trabalho de base, como feministas. E o machismo deles nos julga HIPÓCRITAS porque defendemos a não objetificação da mulher, mas aplaudimos a Anitta na laje de bunda pra cima.</p>
+<p style="text-align: justify;">“Vai malandra” é só um hit de verão. Uma polêmica e passa, como tantas outras. Serviria pra eles fazerem autocrítica, mas preferem pegar no nosso pé. Serviria prs eles refletirem sobre como ELES nos objetificam e como ELES querem o protagonismo SEMPRE.</p>
+<p style="text-align: justify;">Só que eles não sabem como a gente se alimenta de empoderamento 24/7 - independente de Anitta. Não sabem o que significa sororidade, não sabem nossas conversas, nossas reflexões, nossas pautas.</p>
+<p style="text-align: justify;">Um deles disse que o feminismo “está fracassando”. Muitos dizem isso. Coitados! Isso é o que eles, no fundo, queriam. Isso é o que eles pensam ao ver nossa sociedade fazendo escândalos moralistas.</p>
+<p style="text-align: justify;">Questionamos, então, “ó sábio feminista” o que devemos fazer para nosso movimento dar certo. Claro, bostejou um pouco mais e se calou diante de tanta piada que eu e minhas amigas, que fiz questão de marcar, fizemos dele.</p>
+<p style="text-align: justify;">Feminismo vence e vence todo dia um pouco mais. Vence quando uma mina se ilumina e entende seu poder.</p>
+<p style="text-align: justify;">Eles não gostam de feministas. Não fazem autocrítica, enquanto nós, fazemos isso constantemente - inclusive entre nós. Não fazem autocrítica, apenas querem apontar pontos aparentemente contraditórios.</p>
+<p style="text-align: justify;">O verdadeiro feminismo não está na mídia, repito, está em nossas conversas, nosso apoio entre mulheres. Está quando uma mana pede ajuda e a gente consegue ajudar. Está em apoiar incondicionalmente uma irmã, mesmo não achando certo a escolha dela - porque a gente SE RESPEITA. É engolir nosso orgulho e não se fazer de dona da verdade, mesmo quando nosso ego quer falar mais alto. É amar incondicionalmente. Nosso feminismo está em defender todas mulheres, mesmo nosso ego julgando “essa merece, essa não merece” - praticamos ao máximo o não julgamento. Porque a opressão vem pra todas e hoje você xinga a atual do seu ex de vadia, amanhã estará sendo xingada. Ou você foi xingada ontem. Ou está sendo xingada agora.</p>
+<p style="text-align: justify;">O verdadeiro feminismo está em respeitar a decisão da outra, informar e dar oportunidade da outra mulher criar consciência sobre sua própria opressão, mas respeitar o tempo dela. RESPEITAR O TEMPO DELA. Respeitar se ela comete “erros”, típicos de uma sociedade machista. Respeitar se ela reproduz o machismo. Não crucificar, não alimentar a rivalidade entre mulheres (“vocês são uma farsa, eu sou mais feminista que vocês”). É aceitar a opinião da outra e crescer com ela. É crescer JUNTAS. Off-line. Online. Em grupos. Pelo whats. Pelo Insta. É acompanhar a visibilidade de artistas e intelectuais - as pequenas, médias e grandes. É lutar junto.</p>
+<p style="text-align: justify;">Feminismo é tudo isso e mais.</p>
+<p style="text-align: justify;">Mas é entre mulheres, porque no modo automático, os caras não vão entender - eles não vão entender que o feminismo não é a bunda da Anitta, mas que ela tá mostrando pro mundo que as mulheres estão cada vez mais no topo. De tudo. No mais, continuo me inspirando em Rap Plus Size, Djamila Ribeiro, Monja Coen entre outras personalidades - e para mim, verdadeiros símbolos feministas são minhas amigas que, DIARIAMENTE, acompanho o desenvolvimento e crescimento. São as minas do rap, as estudantes/ formandas, as que constroem carreiras, as que saem de depressão e das drogas, que superam suas limitações aos poucos, as que saem de relacionamentos abusivos, as que são mães, as lésbicas, as negras que resistem a tanta opressão, as trans que lutam pra sair de situações de vulnerabilidade que a sociedade coloca. Elas sim, são meus símbolos feministas.</p>
+<p style="text-align: justify;">Vai malandra é só um hit de verão, pra quem aguenta (eu não, infelizmente) CELEBRAR tanto empoderamento rebolando até o chão.</p>

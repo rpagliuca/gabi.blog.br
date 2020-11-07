@@ -1,0 +1,29 @@
+---
+title: "Manipulação midiática"
+url: manipulacao-midiatica
+publishDate: Thu, 28 Oct 2010 21:28:00 +0000
+date: 2010-10-28 21:28:00
+categories: 
+  - "estilo-de-vida"
+tags: 
+  - "opiniao-2"
+  - "polemica-2"
+---
+<div style="text-align: justify;">Quando o governo alemão começou a matar os judeus, a imprensa americana não noticiava como uma história importante e de interesse público. De acordo com o documentário <i><a href="http://www.newseum.org/holocaust/" target="_blank">Holocaust: The Untold Story</a></i> (eu assisti no<a href="http://www.newseum.org/" target="_blank"> Newseum</a>), as mortes eram noticiadas em pequenas notas nas páginas de dentro dos jornais. Quando já era tarde demais, os jornais importantes começaram a fazer desse assunto, primeira página. Motivo? Interesses pessoais.</div>
+<div style="text-align: justify;"></div>
+<div style="text-align: justify;">O que aconteceria se colocassem assim que soubessem nas primeiras páginas de seus <i>New York Times</i> e <i>Washigton Post</i>? Moveriam a opinião pública e poderiam ter conscientizado os cidadãos que algo não ia bem? Isso poderia mudar a política do governo? Poderiam ter evitado mortes e tanto sofrimento? Poderiam ter mudado o rumo da história mundial?</div>
+<div style="text-align: justify;"></div>
+<div style="text-align: justify;"><a href="http://4.bp.blogspot.com/_BzqI_RDZ6O4/TMt8vrFOHCI/AAAAAAAACNo/lhnFUvAavPw/s1600/1281060099.jpg"><img class=" alignleft" src="http://4.bp.blogspot.com/_BzqI_RDZ6O4/TMt8vrFOHCI/AAAAAAAACNo/lhnFUvAavPw/s1600/1281060099.jpg" alt="" border="0" /></a>Se você pensa que está muito longe da nossa realidade e que isso não vai se repetir porque foi há muito tempo e que hoje a comunicação e a tecnologia fazem as informações serem mais certas e que não dá para esconder nada... Está enganado. Por exemplo, durante 12 anos a rede CNN monopolizou as imagens da Guerra do Golfo e o mesmo aconteceu na guerra do Iraque (isso se não está acontecendo também nesse momento, o que não duvido). As guerras, para os americanos, são como seu governo quer que seja. Muita glória, poucos soldados mortos e nenhum civil afetado. E a realidade não é essa. Isso porque estamos falando de uma guerra! Imagine qualquer outro assunto que quiser, a facilidade que um canal de televisão tem para esconder um escândalo, por exemplo.</div>
+<div style="text-align: justify;"></div>
+<div style="text-align: justify;"><a href="http://4.bp.blogspot.com/_BzqI_RDZ6O4/TMt8xDOcmtI/AAAAAAAACNs/ei5yB8t_y5Q/s1600/Sin+futuro+-+sin+direccion+.png"><img class=" alignleft" src="http://4.bp.blogspot.com/_BzqI_RDZ6O4/TMt8xDOcmtI/AAAAAAAACNs/ei5yB8t_y5Q/s320/Sin+futuro+-+sin+direccion+.png" alt="" width="280" height="320" border="0" /></a>Saber disso tudo te faz sentir uma vítima? ( ) sim ( ) não ? Se não, ótimo. Se sim, não deveria. Admito que a mídia tem sua parcela - alta - de culpa sim. Mas <i>nós</i> espectadores também. Nós somos os consumidores dessas informações e deveríamos escolhê-las bem, mas não fazemos isso. É muito mais fácil quando consumimos só o que nos oferecem, sem que seja feito um esforço para refletir ou buscar mais além do nosso jornal preferido. Então, considero o consumidor como <i>cúmplice</i> da manipulação da mídia. Se ninguém deixasse ela nos manipular, isso não aconteceria.</div>
+<div style="text-align: justify;"></div>
+<div style="text-align: justify;">Ok, nem todos têm instrução para saber disso, então o que fazer? Nós, que somos conscientes e buscando algo mais (atualizado 10-11-15), deveríamos começar a mudar um pouco. Se informar com mais de uma linha editorial (<a href="http://pt.wikipedia.org/wiki/Editorial" target="_blank">o que é isso?</a>), duvidar de tudo o que dizem, ter sua própria linha de pensamento lógica e não fazer da opinião de um jornal, revista, político ou qualquer um, o seu ponto de vista.</div>
+<div style="text-align: justify;"></div>
+<div style="text-align: justify;"><b>Cúmplices sim, vítimas não.</b> Você pode escolher. Não podemos fazer a mídia ser totalmente imparcial e independente, mas podemos nos adaptar a ela. Como países democráticos, de certa maneira, é bom ter dois jornais concorrentes falando do mesmo assunto sob pontos de vistas distintos. Assim podemos compará-los e decidirmos, <i>por nós mesmos</i>, o que é certo e o que não é. O que é verdade e o que não é. Já que a parcialidade existe, ainda bem que há vários de vários pontos de vista. Imagina se tivéssemos apenas um jornal com só um ponto de vista, o do governo, por exemplo?</div>
+<div style="text-align: justify;"><a href="http://4.bp.blogspot.com/_BzqI_RDZ6O4/TMmpDsZQjSI/AAAAAAAACNY/0I_Ye66y81U/s1600/O-padr%C3%A3o-Globo-de-manipula%C3%A7%C3%A3o.jpg"><img class=" alignleft" src="http://4.bp.blogspot.com/_BzqI_RDZ6O4/TMmpDsZQjSI/AAAAAAAACNY/0I_Ye66y81U/s320/O-padr%C3%A3o-Globo-de-manipula%C3%A7%C3%A3o.jpg" alt="" width="320" height="220" border="0" /></a>Ficar parado, de braços cruzados, pensando na novelinha de hoje à noite e quem vai entrar no próximo BBB não é a melhor maneira de fazer o mundo andar pra frente. E se você realmente pensa isso importante e que você já faz sua parte, acho que se chegou até aqui é porque sabe que pode fazer melhor! Então FAÇA!!!Nesse blog há artigos relacionados com essa linha de pensamento. Se ficou interessado, vai descendo e olhando para ver o que te interessa.</div>
+<div style="text-align: justify;"></div>
+<div>Como exercício, analize essa capa de um site de notícias, com o público alvo de homossexuais:
+<div style="text-align: justify;"><a href="http://3.bp.blogspot.com/_BzqI_RDZ6O4/TND9nIz_NrI/AAAAAAAACRY/CwyaZLwbEoo/s1600/marina+silva+x+lula.GIF"><img src="http://3.bp.blogspot.com/_BzqI_RDZ6O4/TND9nIz_NrI/AAAAAAAACRY/CwyaZLwbEoo/s400/marina+silva+x+lula.GIF" alt="" width="400" height="246" border="0" /></a></div>
+<p style="text-align: justify;"></p>
+
+</div>

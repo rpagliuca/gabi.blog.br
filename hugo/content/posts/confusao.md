@@ -1,0 +1,10 @@
+---
+title: "Confusão"
+url: confusao
+publishDate: Tue, 07 Oct 2008 23:47:00 +0000
+date: 2008-10-07 23:47:00
+categories: 
+  - "estilo-de-vida"
+tags: 
+---
+<a href="http://1.bp.blogspot.com/_BzqI_RDZ6O4/ScA24Wwd7OI/AAAAAAAAAMk/nHLdFZqWxUQ/s1600-h/84742878.jpg"><img src="http://1.bp.blogspot.com/_BzqI_RDZ6O4/ScA24Wwd7OI/AAAAAAAAAMk/nHLdFZqWxUQ/s320/84742878.jpg" border="0" alt=""></a><br><p><span><span>Noites são feitas para dormir, eu concordo, mas não quando encontramos algo realmente interessante para fazer como escrever, ler ou ficar na internet. Domingos são chatos e principalmente os que sucedem de sábados e sextas sem nada para fazer. Mas domingos são legais para ficar na internet para procurar um namorado, conversar com os amigos, tão entediados quanto você. E fuçar no Orkut dos outros – eu não tenho detector de visitas, nananana -.</span></span></p>  <p><span><span>Eu, particularmente, uso a internet para montar o cara prefeito: lindo, fofo, gosto musical como o meu, inteligente, de preferência parte de uma banda, ou que cante bem – para cantar para mim –, que goste de balada mas não seja viciado, que tenha dinheiro para gastar na hora de lazer e que estude. Ah! E que goste de gordinhas... Fofinhas...</span></span></p>  <p><span><span>Eu conheço vários homens assim! Juntando vários homens eles se tornam no perfeito. É... Esse é meu problema. Eu não gosto de um tipo especifico de homem, como, os LOIROS. Os loiros me atraem, mas não só os loiros, morenos e ruivos me atraem também. Ou os bonitões. Eu adoro os bonitões, que me atraem totalmente, mas não só os bonitões.</span></span></p>  <p><span><span>Eu sou difícil e fácil ao mesmo tempo. Tanta controvérsia porque quando um gatinho legal dá bola para mim, eu já o transformo no cara perfeito, não necessariamente me apaixono (não me apaixono desde meu último namorado), mas transformo todos pequenos casos nos caras perfeitos.</span></span></p>  <p><span><span>Entendem? Quem me entende? Ah, nem eu me entendo.</span></span></p>

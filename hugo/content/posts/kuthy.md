@@ -1,0 +1,11 @@
+---
+title: "Kuthy,"
+url: kuthy
+publishDate: Wed, 29 Jul 2009 15:37:00 +0000
+date: 2009-07-29 15:37:00
+categories: 
+  - "cronicas"
+tags: 
+  - "cartas-2"
+---
+<div><span><span><span><br></span></span></span></div><span><span><a href="http://2.bp.blogspot.com/_BzqI_RDZ6O4/Sk4mja-YAAI/AAAAAAAAAgo/UWZzbvneVGc/s1600-h/10314planeta.jpg"></a></span></span><div><div><span><span><span><br></span></span></span></div><a href="http://2.bp.blogspot.com/_BzqI_RDZ6O4/Sk4makrPEjI/AAAAAAAAAgg/CG87ID-Kq7s/s1600-h/DSC05800.jpg"><img src="http://2.bp.blogspot.com/_BzqI_RDZ6O4/Sk4makrPEjI/AAAAAAAAAgg/CG87ID-Kq7s/s200/DSC05800.jpg" border="0" alt=""></a><div><p><span><span>Alguns dados sobre o planeta Terra: ele pesa quase tanto quanto você: 5974 quintilhões de toneladas. Ops, não tinha visto o resto, só o número (achei que era algo como 59 kg), esqueci desse detalhe (quintilhões de toneladas) então relaxa que falta muito pra você alcançar o peso da Terra.</span></span></p>  <p><span><span>A Terra se formou há cerca de 4,6 bilhões de anos, então, sempre que alguém te chamar de velha diga: ô, loco, a Terra tem 4,6 bilhões de anos e ainda tá super enxuta. </span></span></p>  <p><span><span>O planeta Terra está a 150 milhões de quilômetros do Sol. Vamos ser sinceros que 150 milhões de quilômetros é uma distância longe pra caralho, não é? E ele brilha o dia todo! Então, eu posso te comparar com toda certeza com o Sol. Ele não tá perto, mas como tem que aparecer, como quer aparecer, ele aparece com todo sacrifício. É muito foda aparecer, mas aparece. Você precisa e quer muito, então, como o sol que some no outro lado do mundo de noite, você deixa os ubatubanos perderem seu brilho por uns dias, para iluminar os nossos. </span></span></p>  <p><span><span>Você é meu sol e eu te dou essa </span></span><a href="http://www.google.com.br/search?rlz=1C1CHMK_pt-BRBR295BR303&sourceid=chrome&ie=UTF-8&q=galharufa"><span><span>galharufa </span></span></a><span><span>para você não se esquecer disso. Você é meu sol que ilumina meu mundo.</span></span></p><p><span><img src="http://2.bp.blogspot.com/_BzqI_RDZ6O4/Sk4mja-YAAI/AAAAAAAAAgo/UWZzbvneVGc/s200/10314planeta.jpg" border="0" alt=""></span></p></div></div>

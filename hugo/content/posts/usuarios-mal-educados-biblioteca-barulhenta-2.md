@@ -1,0 +1,12 @@
+---
+title: "Usuários mal educados, biblioteca barulhenta. (2)"
+url: usuarios-mal-educados-biblioteca-barulhenta-2
+publishDate: Tue, 07 Apr 2009 11:46:00 +0000
+date: 2009-04-07 11:46:00
+categories: 
+  - "materias"
+tags: 
+  - "qu4tro-4nos"
+  - "quatro-anos-2"
+---
+<a href="http://3.bp.blogspot.com/_BzqI_RDZ6O4/Sd8xr-oWnMI/AAAAAAAAAWM/swvk8bmGUvk/s1600-h/bagunca.gif"><img alt="" border="0" src="http://3.bp.blogspot.com/_BzqI_RDZ6O4/Sd8xr-oWnMI/AAAAAAAAAWM/swvk8bmGUvk/s320/bagunca.gif"></a><br><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><div><span><span><span><span> </span></span></span></span><span><span><span>Bagunça atrapalha quem procura tranquilidade para estudar.</span></span></span></div><div><span><span><span> </span></span></span></div><div><span><span><span>  </span></span></span><span><span>A biblioteca da nossa faculdade não permanece em silêncio principalmente nos horários de intervalos, saída da turma da manhã e entrada da turma da noite. “Risadas e conversas altas tiram minha concentração”, diz aluno Isaque Criscuolo, aluno de jornalismo. Isso é causado pelo grande fluxo de usuários e a impossibilidade de todas as conversas serem controladas pelos funcionários ao mesmo tempo.</span></span></div><div><span><span><br></span></span></div><div><span><span><span>  </span></span></span><span><span>Em toda a biblioteca há sinalização em papel e está no regulamento oficial que deve ser feito silêncio. Quando as conversas passam do limite, o aluno é logo advertido, mas muitos deles não respeitam os avisos e, às vezes, até são mal educados com os funcionários.</span></span></div><div><span><span><br></span></span></div><div><span><span><span>  </span></span></span><span><span>Quem trabalha lá diz fazer o máximo que pode. “O que falta é educação de biblioteca.”, diz atendente. Os funcionários reclamam do barulho e concordam que é ótimo quando as pessoas tentam fazer algo para mudar a situação.</span></span></div><div><span><span><br></span></span></div><div><span><span><span>  </span></span></span><span><span>O objetivo de todas as bibliotecas é a leitura, pesquisa e o estudo, mas o barulho desvia esses objetivos das pessoas interessadas e onde deveria ser lugar de estudo, passa a ser uma sala de conversas, de socialização.</span></span></div><div><span><br></span></div></div>

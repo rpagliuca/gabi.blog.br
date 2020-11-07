@@ -1,0 +1,51 @@
+baseurl: 'https://gabi.blog.br/'
+themesDir: themes
+languageCode: pt-br
+title: Gabitopia
+theme: hugo-PaperMod
+canonifyURLs: true
+googleAnalytics: ''
+disqusShortname: ''
+paginate: 1000
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+languages:
+  en:
+    languageName: "Português"
+    weight: 1
+    menu:
+      main:
+        - name: Tags
+          url: /tags/
+          weight: 10
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+params:
+  name: Gabitopia
+  bio: Gabitopia
+  enableRSS: false
+  customCSS: []
+  customJS: []
+  home: ''
+  subscribe: ''
+  olderPosts: ''
+  newerPosts: ''
+  readMore: ''
+  copyright: ''
+  aboutAuthor: ''
+  tweet: ''
+  share: ''
+  title404: Ops... artigo não encontrado!
+  subtitle404: >-
+    Este blog foi recentemente migrado de plataforma, e por isso alguns links
+    deixaram de funcionar. Por favor, utilize a lista abaixo para acessar o
+    artigo desejado.
+  iconFont: font-awesome
+  socialIconStyle: circle
+social:
+  facebook: ''
+  github: ''
