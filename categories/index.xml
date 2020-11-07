@@ -1,22 +1,180 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Gabitopia</title>
-    <link>https://rpagliuca.github.io/gabi.blog.br/categories/</link>
+    <link>https://gabi.blog.br/categories/</link>
     <description>Recent content in Categories on Gabitopia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 08 Oct 2019 13:27:39 -0300</lastBuildDate>
-    
-	<atom:link href="https://rpagliuca.github.io/gabi.blog.br/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 08 Jun 2020 20:17:46 +0000</lastBuildDate><atom:link href="https://gabi.blog.br/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sem-categoria</title>
+      <link>https://gabi.blog.br/categories/sem-categoria/</link>
+      <pubDate>Mon, 08 Jun 2020 20:17:46 +0000</pubDate>
+      
+      <guid>https://gabi.blog.br/categories/sem-categoria/</guid>
+      <description></description>
+    </item>
     
     <item>
-      <title>Minha categoria</title>
-      <link>https://rpagliuca.github.io/gabi.blog.br/categories/minha-categoria/</link>
-      <pubDate>Tue, 08 Oct 2019 13:27:39 -0300</pubDate>
+      <title>avancos-espirituais</title>
+      <link>https://gabi.blog.br/categories/avancos-espirituais/</link>
+      <pubDate>Fri, 03 Apr 2020 19:21:27 +0000</pubDate>
       
-      <guid>https://rpagliuca.github.io/gabi.blog.br/categories/minha-categoria/</guid>
+      <guid>https://gabi.blog.br/categories/avancos-espirituais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>estilo-de-vida</title>
+      <link>https://gabi.blog.br/categories/estilo-de-vida/</link>
+      <pubDate>Tue, 03 Sep 2019 12:40:56 +0000</pubDate>
+      
+      <guid>https://gabi.blog.br/categories/estilo-de-vida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cronicas</title>
+      <link>https://gabi.blog.br/categories/cronicas/</link>
+      <pubDate>Wed, 15 Aug 2018 13:14:43 +0000</pubDate>
+      
+      <guid>https://gabi.blog.br/categories/cronicas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bebetopia</title>
+      <link>https://gabi.blog.br/categories/bebetopia/</link>
+      <pubDate>Mon, 04 Jun 2018 06:39:45 +0000</pubDate>
+      
+      <guid>https://gabi.blog.br/categories/bebetopia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>a-resistencia-das-minas</title>
+      <link>https://gabi.blog.br/categories/a-resistencia-das-minas/</link>
+      <pubDate>Fri, 30 Jun 2017 12:15:01 +0000</pubDate>
+      
+      <guid>https://gabi.blog.br/categories/a-resistencia-das-minas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alquimista-do-meu-ser</title>
+      <link>https://gabi.blog.br/categories/alquimista-do-meu-ser/</link>
+      <pubDate>Wed, 28 Jun 2017 14:46:34 +0000</pubDate>
+      
+      <guid>https://gabi.blog.br/categories/alquimista-do-meu-ser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>catarses</title>
+      <link>https://gabi.blog.br/categories/catarses/</link>
+      <pubDate>Tue, 20 Jun 2017 17:57:47 +0000</pubDate>
+      
+      <guid>https://gabi.blog.br/categories/catarses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>curas-energeticas</title>
+      <link>https://gabi.blog.br/categories/curas-energeticas/</link>
+      <pubDate>Sat, 03 Dec 2016 10:05:30 +0000</pubDate>
+      
+      <guid>https://gabi.blog.br/categories/curas-energeticas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regenerados</title>
+      <link>https://gabi.blog.br/categories/regenerados/</link>
+      <pubDate>Tue, 09 Aug 2016 12:22:09 +0000</pubDate>
+      
+      <guid>https://gabi.blog.br/categories/regenerados/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>livros</title>
+      <link>https://gabi.blog.br/categories/livros/</link>
+      <pubDate>Sun, 07 Aug 2016 12:45:23 +0000</pubDate>
+      
+      <guid>https://gabi.blog.br/categories/livros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videos</title>
+      <link>https://gabi.blog.br/categories/videos/</link>
+      <pubDate>Thu, 04 Aug 2016 14:57:00 +0000</pubDate>
+      
+      <guid>https://gabi.blog.br/categories/videos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>master-mind-unicornios-coloridos</title>
+      <link>https://gabi.blog.br/categories/master-mind-unicornios-coloridos/</link>
+      <pubDate>Thu, 23 Jun 2016 01:36:44 +0000</pubDate>
+      
+      <guid>https://gabi.blog.br/categories/master-mind-unicornios-coloridos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>comentarios-gabitopia</title>
+      <link>https://gabi.blog.br/categories/comentarios-gabitopia/</link>
+      <pubDate>Sat, 09 Jan 2016 22:41:04 +0000</pubDate>
+      
+      <guid>https://gabi.blog.br/categories/comentarios-gabitopia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2016</title>
+      <link>https://gabi.blog.br/categories/2016/</link>
+      <pubDate>Sun, 03 Jan 2016 13:12:49 +0000</pubDate>
+      
+      <guid>https://gabi.blog.br/categories/2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>materias</title>
+      <link>https://gabi.blog.br/categories/materias/</link>
+      <pubDate>Sat, 19 Dec 2015 20:30:36 +0000</pubDate>
+      
+      <guid>https://gabi.blog.br/categories/materias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>atualizado</title>
+      <link>https://gabi.blog.br/categories/atualizado/</link>
+      <pubDate>Tue, 07 Sep 2010 09:25:00 +0000</pubDate>
+      
+      <guid>https://gabi.blog.br/categories/atualizado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>textos-de-antonia</title>
+      <link>https://gabi.blog.br/categories/textos-de-antonia/</link>
+      <pubDate>Tue, 08 Sep 2009 15:29:00 +0000</pubDate>
+      
+      <guid>https://gabi.blog.br/categories/textos-de-antonia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>erica-serie</title>
+      <link>https://gabi.blog.br/categories/erica-serie/</link>
+      <pubDate>Sat, 01 Nov 2008 23:53:00 +0000</pubDate>
+      
+      <guid>https://gabi.blog.br/categories/erica-serie/</guid>
       <description></description>
     </item>
     
