@@ -25,6 +25,7 @@ markup:
     renderer:
       unsafe: true
 params:
+  disableSpecial1stPost: true
   name: Gabitopia
   bio: Gabitopia
   enableRSS: false
