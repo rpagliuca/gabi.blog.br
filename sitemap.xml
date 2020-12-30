@@ -3,37 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gabi.blog.br/categories/</loc>
-    <lastmod>2020-06-08T20:17:46+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gabi.blog.br/</loc>
-    <lastmod>2020-06-08T20:17:46+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gabi.blog.br/posts/</loc>
-    <lastmod>2020-06-08T20:17:46+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gabi.blog.br/7025/</loc>
-    <lastmod>2020-06-08T20:17:46+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gabi.blog.br/categories/sem-categoria/</loc>
-    <lastmod>2020-06-08T20:17:46+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gabi.blog.br/7011/</loc>
     <lastmod>2020-04-03T19:21:27+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://gabi.blog.br/categories/avancos-espirituais/</loc>
+    <lastmod>2020-04-03T19:21:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabi.blog.br/categories/</loc>
+    <lastmod>2020-04-03T19:21:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabi.blog.br/</loc>
+    <lastmod>2020-04-03T19:21:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabi.blog.br/posts/</loc>
     <lastmod>2020-04-03T19:21:27+00:00</lastmod>
   </url>
   
@@ -219,6 +209,11 @@
   
   <url>
     <loc>https://gabi.blog.br/6554/</loc>
+    <lastmod>2017-11-23T00:53:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabi.blog.br/categories/sem-categoria/</loc>
     <lastmod>2017-11-23T00:53:43+00:00</lastmod>
   </url>
   
